@@ -375,31 +375,31 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-    width: 95%;
-}
-
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
     width: 75%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
+.about-stats .progress-bars .progress-bar .progress-con .progress .js {
     width: 60%;
 }
 
+.about-stats .progress-bars .progress-bar .progress-con .progress .react {
+    width: 40%;
+}
+
 .about-stats .progress-bars .progress-bar .progress-con .progress .node {
-    width: 87%;
+    width: 50%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-    width: 70%;
+    width: 50%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .bootstrap {
-    width: 80%;
+    width: 85%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .problem {
-    width: 90%;
+    width: 60%;
 }
 
 .stat-title {
